@@ -1,9 +1,20 @@
 .body {
   position: relative;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
 }
 
 .title {
   position: absolute;
+  font-size: 116px;
+  line-height: 1;
+}
+
+.aligned-text {
+  display: block;
+}
+
+.aligned-text--center {
+  text-align: center;
 }
 
 .video {
