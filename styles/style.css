@@ -1,0 +1,14 @@
+.body {
+  position: relative;
+}
+
+.title {
+  position: absolute;
+}
+
+.video {
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+  object-position: 100%;
+}
